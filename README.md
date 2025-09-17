@@ -144,7 +144,7 @@ For PoS Tagging:
 
 | Model                                                        | Accuracy (Final test dataset) | F1-Score (Final test dataset) |
 | ------------------------------------------------------------ | ----------------------------- | ----------------------------- |
-| GBERT Large from [MaiBaam](https://arxiv.org/abs/2403.10293) | 80.29                         | 62.45                         |
+| GBERT Base from [MaiBaam](https://arxiv.org/abs/2403.10293)  | 80.29                         | 62.45                         |
 | Baivaria v1                                                  | 90.28 ± 0.16                  | 73.65 ± 0.91                  |
 
 # ❤️ Acknowledgements
