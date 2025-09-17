@@ -17,13 +17,13 @@ We use the following Bavarian corpora for the pretraining of Baivaria:
 
 The following table shows some stats for all corpora - after filtering:
 
-| Corpus Name                 | Documents | Sentences | Quality Measures       | Tokens      | Plaintext Size |
-|:--------------------------- | ---------:| ---------:|:---------------------- | -----------:| --------------:|
-| Bavarian Wikipedia          |    43,627 |   242,245 | High-quality Wikipedia |   7,001,569 |            21M |
-| Bavarian Bible              |     1,189 |    35,156 | Gemini-translated      |   1,346,116 |           3.8M |
-| Bavarian Awesome Tagesschau |    10,036 |   335,989 | Gemini-translated      |  10,528,908 |            35M |
-| Bavarian Occiglot           |   149,774 | 6,842,935 | Gemini-translated      | 214,697,892 |           834M |
-| Bavarian Books              |     4,361 |    53,656 | OCR'ed Books           |   1,147,435 |           3.2M |
-| Bavarian Finepdfs           |     1,989 |    73,970 | OCR'ed PDFs            |   2,381,873 |           6.7M |
+| Corpus Name                 | Quality Measures       |Documents | Sentences | Tokens      | Plaintext Size |
+|:--------------------------- |:---------------------- |---------:| ---------:| -----------:| --------------:|
+| Bavarian Wikipedia          | High-quality Wikipedia |   43,627 |   242,245 |   7,001,569 |            21M |
+| Bavarian Bible              | Gemini-translated      |    1,189 |    35,156 |   1,346,116 |           3.8M |
+| Bavarian Awesome Tagesschau | Gemini-translated      |   10,036 |   335,989 |  10,528,908 |            35M |
+| Bavarian Occiglot           | Gemini-translated      |  149,774 | 6,842,935 | 214,697,892 |           834M |
+| Bavarian Books              | OCR'ed Books           |    4,361 |    53,656 |   1,147,435 |           3.2M |
+| Bavarian Finepdfs           | OCR'ed PDFs            |    1,989 |    73,970 |   2,381,873 |           6.7M |
 
 Overall, the pretraining corpus has 210,976 documents, 7,583,951 sentences, 237,103,793 tokens with a total plaintext size of 903M.
