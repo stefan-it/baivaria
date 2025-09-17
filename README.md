@@ -43,7 +43,7 @@ For Baivaria we follow the main idea in the "[Don't Stop Pretraining: Adapt Lang
 We use the recently released [GERTuraX-3](https://huggingface.co/gerturax/gerturax-3) as backbone and continue pretraining with our Bavarian corpus. Additionally, we perform a small hyper-parameter search and report micro F1-score on the [BarNER](https://arxiv.org/abs/2403.12749) NER dataset. The best
 performing ablation model is used as final model and is released as *Baivaria* in version 1.
 
-Thanks to the [TRC program](https://sites.research.google/trc/about/), the following ablation models could be pretrained on a v4-32 TPU Pod:
+Thanks to the [TRC program](https://sites.research.google/trc/about/), the following ablation models could be pretrained on a v4-32 TPU Pod using the [TensorFlow Model Garden](https://github.com/tensorflow/models) library:
 
 | Hyper-Parameter     | Ablation 1 | Ablation 2 | Ablation 3 | Ablation 4 |
 | ------------------- | ----------:| ----------:| ----------:| ----------:|
