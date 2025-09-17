@@ -13,7 +13,7 @@ We use the following Bavarian corpora for the pretraining of Baivaria:
 * [Bavarian Awesome Tagesschau](https://huggingface.co/datasets/bavarian-nlp/gemini-bavarian-tagesschau-v0.1)
 * Bavarian Occiglot
 * [Bavarian Books](https://huggingface.co/datasets/bavarian-nlp/bavarian-books-ocred-v0.1)
-* [Bavarian FinFinepdfsepds](https://huggingface.co/datasets/HuggingFaceFW/finepdfs)
+* [Bavarian Finepdfs](https://huggingface.co/datasets/HuggingFaceFW/finepdfs)
 
 The following table shows some stats for all corpora - after filtering:
 
