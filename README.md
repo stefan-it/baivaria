@@ -1,5 +1,7 @@
 # Baivaria
 
+![alt text](logo.png)
+
 *Baivaria* is an encoder-only language model for Bavarian achieving new SOTA results on Named Entity Recognition (NER) and Part-of-Speech Tagging (PoS).
 
 This repository documents the creation of Baivaria.
